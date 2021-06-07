@@ -13,7 +13,7 @@ function calculate(player) {
         document.getElementById("1").style.backgroundColor = "grey";
     }
     if (com == 2) {
-        document.getElementById("1").style.backgroundColor = "grey";
+        document.getElementById("2").style.backgroundColor = "grey";
     }
     document.getElementById("vs").innerHTML = "";
     if ((player + 1) % 3 == com) {
