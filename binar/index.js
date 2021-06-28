@@ -13,4 +13,4 @@ function onRequest(request, response) {
     })
 }
 
-http.createServer(onRequest).listen
+http.createServer(onRequest).listen(3000)
