@@ -1,5 +1,5 @@
 .first-page {
-    background-image: url("assets/main-bg.jpg"), linear-gradient(#eb01a5, #d13531);
+    background-image: url("../images/main-bg.jpg"), linear-gradient(#eb01a5, #d13531);
     background-size: cover;
     background-position: center center;
     width: 100vw;
@@ -9,8 +9,8 @@
 }
 
 .second-page {
-    background-image: url("assets/the-games-bg.jpg");
-    background-image: url("assets/the-games-bg.jpg"), -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%);
+    background-image: url("../images/the-games-bg.jpg");
+    background-image: url("../images/the-games-bg.jpg"), -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%);
     background-size: cover;
     background-position: center center;
     width: 100vw;
@@ -21,8 +21,8 @@
 }
 
 .third-page {
-    background-image: url("assets/features.jpg");
-    background-image: url("assets/features.jpg"), -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%);
+    background-image: url("../images/features.jpg");
+    background-image: url("../images/features.jpg"), -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%);
     background-size: cover;
     background-position: center center;
     width: 100vw;
@@ -33,8 +33,8 @@
 }
 
 .fourth-page {
-    background-image: url("assets/requirements.png");
-    background-image: url("assets/requirements.png"), -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%);
+    background-image: url("../images/requirements.png");
+    background-image: url("../images/requirements.png"), -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%);
     background-size: cover;
     background-position: center center;
     width: 100vw;
@@ -45,8 +45,8 @@
 }
 
 .fifth-page {
-    background-image: url("assets/top-score-bg.png");
-    background-image: url("assets/top-score-bg.png"), -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%);
+    background-image: url("../images/top-score-bg.png");
+    background-image: url("../images/top-score-bg.png"), -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%);
     background-size: cover;
     background-position: center center;
     width: 100vw;
@@ -58,7 +58,7 @@
 }
 
 .sixth-page {
-    background-image: url("assets/top-score-bg.png");
+    background-image: url("../images/top-score-bg.png");
     background-size: cover;
     background-position: center center;
     width: 100vw;
